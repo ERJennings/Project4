@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string-array name="JSON_URL_NAME">
+        <item>CNU - Defender</item>
+        <item>Pair - Teton Software - Pets</item>
+    </string-array>
+
+    <string-array name="JSON_URL">
+        <item>https://www.pcs.cnu.edu/~kperkins/pets/pets.json</item>
+        <!--email used link http://www.pcs.cnu.edu/~kperkins/pets/pets.json but pets.json at end doesn't seem necessary-->
+        <item>https://www.tetonsoftware.com/pets/pets.json</item>
+    </string-array>
+
+</resources>
